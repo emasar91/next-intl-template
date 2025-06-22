@@ -1,10 +1,6 @@
 {
 	"Page": {
-		"title": "Trello Clon",
-		"Description": "Un clone de Trello hecho con next"
+		"title": "Plantilla Intl Next",
+		"Description": "Una plantilla de Next con Intl"
 	},
-	"HomePage": {
-		"title": "Hello world!11",
-		"about": "Go to the about page11"
-	}
 }
