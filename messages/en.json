@@ -1,10 +1,6 @@
 {
 	"Page": {
-		"title": "Trello Clone",
-		"Description": "An Trello clone made by next"
+		"title": "Next Template Intl",
+		"Description": "An template intl for next"
 	},
-	"HomePage": {
-		"title": "Hello world!",
-		"about": "Go to the about page"
-	}
 }
